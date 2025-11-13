@@ -18,7 +18,7 @@ class BankC extends Bank {
 }
 public class Bank {
     public static void main(String[] args) {
-        System.out.println("Tushar Dahiya, 23csu321");
+        System.out.println("Sitanshu, 24csu323");
         BankA a = new BankA();
         BankB b = new BankB();
         BankC c = new BankC();

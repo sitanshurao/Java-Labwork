@@ -28,7 +28,7 @@ class B extends Marks {
 }
 public class Marks {
     public static void main(String[] args) {
-        System.out.println("Tushar Dahiya,23csu321");
+        System.out.println("Sitanshu, 24csu323");
         A studentA = new A(85, 90, 80);      
         B studentB = new B(75, 80, 70, 85);  
         System.out.println("Percentage of Student A: " + studentA.getPercentage() + "%");

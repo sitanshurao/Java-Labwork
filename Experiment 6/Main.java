@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Tushar Dahiya,23csu321");
+        System.out.println("Sitanshu, 24csu323");
         ResizableCircle rc = new ResizableCircle(10.0);
         System.out.println("Original Radius: 10.0");
         System.out.println("Original Area: " + rc.getArea());

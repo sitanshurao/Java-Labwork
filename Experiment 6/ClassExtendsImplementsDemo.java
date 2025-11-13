@@ -1,6 +1,6 @@
 public class ClassExtendsImplementsDemo {
     public static void main(String[] args) {
-        System.out.println("Sitanshu,23csu321");
+        System.out.println("Sitanshu,24csu323");
         System.out.println("=== Demonstrating: Class extends another class and implements multiple interfaces ===\n");
         Duck donald = new Duck("Donald");
         System.out.println();
