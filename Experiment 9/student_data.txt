@@ -1,0 +1,10 @@
+Serial No.	First Name	CGPA	Grade
+=================================================
+1		John		8.50	A
+2		Alice		9.20	A
+3		Bob		7.80	B
+4		Carol		6.50	C
+5		David		9.80	A
+6		Emma		7.20	B
+7		Frank		8.90	A
+8		Grace		6.80	C
